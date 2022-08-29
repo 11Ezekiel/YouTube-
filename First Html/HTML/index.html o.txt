@@ -1,0 +1,13 @@
+<!DOCTYPE html>
+<Html lang="en-us">
+<title>Ui/Ux</title>
+<body style="background-color:purple;">
+
+<h1 style="background-color:powder blue;">Ui/Ux</h1>
+<hr>
+<p>The Html address element defines  contact information (author/owner) of a document of article.</p>
+
+<address>1,Idowu Adams 	Street,<br>Obadore, Lagos State,<br>
+
+</body>
+</html>
