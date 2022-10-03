@@ -9,9 +9,11 @@
     <h2>The picture Element</h2>
 
     <picture>
-        <source srcset="img_avatar.png">
-        <source srcset="img_girl.jpg">
-        <img src="img_beatles.gif" alt="Beatles" style="width:auto;">
+        <source media="(min-width: 650px)"
+        srcset="Thrive.jpg">
+        <source media="(min-width: 465px)"
+        srcset="img_5396.jpg">
+        
     </picture>
 
     <p>The picture element can be used when the image format is not supportted 
